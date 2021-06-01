@@ -3,7 +3,7 @@
 You can sign up to our mailinglist to receive the latest updates on Summergraph.
 We will use the information you provide on this form to be in touch with you and to provide updates on the next summergraph. You can change your mind at any time by clicking the unsubscribe link in the footer of any email you receive from us. By clicking below, you agree that we may process your information in accordance with these terms.
 
-We use MailChimp as our mailing automation platform. By clicking below to submit this form, you acknowledge that the information you provide will be transferred to MailChimp for processing in accordance with their (Privacy Policy)[https://mailchimp.com/legal/privacy/] and (Terms)[https://mailchimp.com/legal/terms/].
+We use MailChimp as our mailing automation platform. By clicking below to submit this form, you acknowledge that the information you provide will be transferred to MailChimp for processing in accordance with their [Privacy Policy](https://mailchimp.com/legal/privacy/) and [Terms](https://mailchimp.com/legal/terms/).
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
