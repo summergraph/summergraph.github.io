@@ -1,4 +1,4 @@
-## Welcome to Summergraph
+### Sign up for the Summergraph mailinglist
 
 You can sign up to our mailinglist to receive the latest updates on Summergraph.
 We will use the information you provide on this form to be in touch with you and to provide updates on the next summergraph. You can change your mind at any time by clicking the unsubscribe link in the footer of any email you receive from us. By clicking below, you agree that we may process your information in accordance with these terms.
